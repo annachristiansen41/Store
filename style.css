@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: rgb(52, 67, 83);
+}
+
+p {
+    text-align: center;
+    color: rgb(52, 67, 83);
+}
+
+img {
+    display: block;
+    width: 60%;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(139, 139, 168);
+}
+
+.instruments {
+    background-color: rgb(139, 139, 168);
+}
+
+.lessons {
+    background-color: rgb(139, 139, 168);
+}
+
+.studiorooms {
+    background-color: rgb(139, 139, 168);
+}
